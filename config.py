@@ -1,5 +1,5 @@
-EMAIL = ""
-PASSWORD = ""
+EMAIL = "gritwik703@gmail.com"
+PASSWORD = "123456"
 DEVICE_ID = "f245bb5cce9f2e7fb6bb9b6d7dfe85fa" # don't change
 
 if (EMAIL == "" or PASSWORD == ""):
